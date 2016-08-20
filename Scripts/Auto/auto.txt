@@ -1,0 +1,8 @@
+MediaMonkey Auto-Scripts
+
+This directory is used for MediaMonkey Auto-Scripts which add 
+functionality to MediaMonkey. Simply copy the Auto-Script to 
+this directory and then restart MediaMonkey and the new 
+functionality will be available. 
+
+See http://www.mediamonkey.com/developers.htm for more information.
